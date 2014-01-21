@@ -1,11 +1,10 @@
-README
-=======================================
-1.Introduction
+README  
+=======================================  
+1.Introduction  
 
-wget https://github.com/itpl/shell/archive/master.zip  
-unzip master.zip  
+Auto initialize and config samba service for RaspberryPi(初始化树莓派的samba文件共享服务)  
 
-2.Update
+2.Update  
 
-2013122101 add error&exit support  
+2014012201 None  
 
